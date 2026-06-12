@@ -32,16 +32,5 @@
       "custom": false,
       "author": null
     },
-    {
-      "command": "/customanim dupose32 stoplastframe idle48 stoplastframe",
-      "name": "Customanimtest",
-      "categories": [
-        "Sitting"
-      ],
-      "tags": [],
-      "preview": null,
-      "custom": true,
-      "author": "QLucii"
-    }
   ]
 }
