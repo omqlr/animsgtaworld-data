@@ -2608,6 +2608,21 @@
       "preview": "previews/layright.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim laydead",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/laydead.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
