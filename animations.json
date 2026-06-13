@@ -2728,6 +2728,21 @@
       "preview": "previews/knockedout2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim proneaim",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/proneaim.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
