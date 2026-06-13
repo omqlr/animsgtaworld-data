@@ -2263,6 +2263,21 @@
       "preview": "previews/gentlemensitting.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim crossedlegarmchair1",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/crossedlegarmchair1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
