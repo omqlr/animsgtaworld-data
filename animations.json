@@ -165,6 +165,22 @@
       "preview": "previews/sit9.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sit10",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/sit10.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
