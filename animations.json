@@ -198,6 +198,23 @@
       "preview": "previews/sidesit.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sidesit2",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Movimiento",
+        "Suelo",
+        "Cama"
+      ],
+      "preview": "previews/sidesit2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
