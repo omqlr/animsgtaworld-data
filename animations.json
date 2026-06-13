@@ -296,6 +296,25 @@
       "preview": "previews/elbowsit.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim elbowsit2",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento",
+        "Pensativo",
+        "Triste",
+        "Jodido"
+      ],
+      "preview": "previews/elbowsit2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
