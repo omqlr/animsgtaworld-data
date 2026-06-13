@@ -181,6 +181,23 @@
       "preview": "previews/sit10.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sidesit",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Suelo",
+        "Acostado",
+        "Cama"
+      ],
+      "preview": "previews/sidesit.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
