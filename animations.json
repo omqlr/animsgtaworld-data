@@ -232,6 +232,22 @@
       "preview": "previews/sitbeer.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitbeerdrunk",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Movimiento",
+        "Item"
+      ],
+      "preview": "previews/sitbeerdrunk.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
