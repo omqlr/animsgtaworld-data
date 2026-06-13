@@ -476,6 +476,21 @@
       "preview": "previews/sitchair4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitchair5",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/sitchair5.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
