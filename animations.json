@@ -1694,6 +1694,22 @@
       "preview": "previews/malerelaxedsitting1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malerelaxedsitting2",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/malerelaxedsitting2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
