@@ -28,5 +28,20 @@
     "Female",
     "Custom"
   ],
-  "animations": []
+  "animations": [
+    {
+      "command": "/anim sit",
+      "name": "Sentarse piernas abiertas.",
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill"
+      ],
+      "preview": "previews/sit.png",
+      "custom": false,
+      "author": null
+    }
+  ]
 }
