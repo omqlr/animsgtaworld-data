@@ -87,21 +87,6 @@
       "preview": "previews/sit4.png",
       "custom": false,
       "author": null
-    },
-    {
-      "command": "/anim sit5",
-      "name": null,
-      "categories": [
-        "Sitting"
-      ],
-      "tags": [
-        "Sentarse",
-        "Chill",
-        "Silla"
-      ],
-      "preview": "previews/sit5.png",
-      "custom": false,
-      "author": null
     }
   ]
 }
