@@ -1840,6 +1840,23 @@
       "preview": "previews/cuffedsit2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitbytv",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "TV",
+        "Cama"
+      ],
+      "preview": "previews/sitbytv.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
