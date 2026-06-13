@@ -1930,6 +1930,21 @@
       "preview": "previews/msitchair4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim msitchair5",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/msitchair5.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
