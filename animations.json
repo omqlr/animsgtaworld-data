@@ -2864,6 +2864,22 @@
       "preview": "previews/layingonground.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim layingonground2",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo",
+        "Movimiento"
+      ],
+      "preview": "previews/layingonground2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
