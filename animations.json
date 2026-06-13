@@ -2323,6 +2323,21 @@
       "preview": "previews/rightbenchlean.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malesit1",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/malesit1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
