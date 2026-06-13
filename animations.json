@@ -42,6 +42,21 @@
       "preview": "previews/sit.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sit2",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Suelo"
+      ],
+      "preview": "previews/sit2.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
