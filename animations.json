@@ -2698,6 +2698,21 @@
       "preview": "previews/sunbathefront2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim knockedout1",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/knockedout1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
