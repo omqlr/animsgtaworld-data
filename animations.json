@@ -1630,6 +1630,22 @@
       "preview": "previews/femalerelaxedsitting5.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalerelaxedsitting6",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/femalerelaxedsitting6.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
