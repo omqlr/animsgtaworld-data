@@ -2818,6 +2818,22 @@
       "preview": "previews/layingonbed2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalelaying1",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo",
+        "Movimiento"
+      ],
+      "preview": "previews/femalelaying1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
