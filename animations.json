@@ -1188,6 +1188,22 @@
       "preview": "previews/officesit4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim officesit5",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/officesit5.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
