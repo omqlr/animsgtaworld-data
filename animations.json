@@ -2638,6 +2638,21 @@
       "preview": "previews/laycouch.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sunbatheback",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/sunbatheback.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
