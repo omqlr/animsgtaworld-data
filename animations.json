@@ -1857,6 +1857,21 @@
       "preview": "previews/sitbytv.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitrubchin",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/sitrubchin.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
