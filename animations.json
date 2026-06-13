@@ -2713,6 +2713,21 @@
       "preview": "previews/knockedout1.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim knockedout2",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/knockedout2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
