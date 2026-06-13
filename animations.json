@@ -398,6 +398,21 @@
       "preview": "previews/toiletsit.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim weepingsit",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/weepingsit.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
