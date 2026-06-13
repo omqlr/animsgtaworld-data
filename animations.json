@@ -2488,6 +2488,21 @@
       "preview": "previews/pokersit3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim pokersit4",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/pokersit4.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
