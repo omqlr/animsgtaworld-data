@@ -822,6 +822,22 @@
       "preview": "previews/sitchair26.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitchair27",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/sitchair27.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
