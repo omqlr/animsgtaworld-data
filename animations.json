@@ -805,6 +805,23 @@
       "preview": "previews/sitchair25.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitchair26",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Suelo",
+        "Silla",
+        "Cama"
+      ],
+      "preview": "previews/sitchair26.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
