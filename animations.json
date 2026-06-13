@@ -2141,6 +2141,21 @@
       "preview": "previews/fsitchair2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim fsitchair3",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/fsitchair3.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
