@@ -2788,6 +2788,21 @@
       "preview": "previews/sleep2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim layingonbed1",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/layingonbed1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
