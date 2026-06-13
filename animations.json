@@ -2911,6 +2911,21 @@
       "preview": "previews/bedtime1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bedtime2",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/bedtime2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
