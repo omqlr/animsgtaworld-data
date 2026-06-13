@@ -2623,6 +2623,21 @@
       "preview": "previews/laydead.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim laycouch",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/laycouch.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
