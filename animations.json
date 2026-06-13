@@ -616,6 +616,21 @@
       "preview": "previews/sitchair13.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitchair14",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/sitchair14.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
