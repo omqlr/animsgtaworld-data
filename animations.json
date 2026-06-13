@@ -2548,6 +2548,21 @@
       "preview": "previews/liedown3.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim liedown4",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/liedown4.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
