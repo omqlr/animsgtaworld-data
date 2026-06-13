@@ -1475,6 +1475,21 @@
       "preview": "previews/femalesitting2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalesitting3",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/femalesitting3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
