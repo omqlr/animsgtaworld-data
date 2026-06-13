@@ -263,6 +263,23 @@
       "preview": "previews/lazy.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim stairssit",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Movimiento",
+        "Escalera",
+        "Silla"
+      ],
+      "preview": "previews/stairssit.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
