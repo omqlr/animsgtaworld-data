@@ -2849,6 +2849,21 @@
       "preview": "previews/malelaying1.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim layingonground",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/layingonground.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
