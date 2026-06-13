@@ -2834,6 +2834,21 @@
       "preview": "previews/femalelaying1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malelaying1",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/malelaying1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
