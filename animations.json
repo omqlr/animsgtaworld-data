@@ -2218,6 +2218,22 @@
       "preview": "previews/fsitchair7.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim fsitchair8",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/fsitchair8.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
