@@ -1096,6 +1096,21 @@
       "preview": "previews/sitmale1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitonbed1",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Cama"
+      ],
+      "preview": "previews/sitonbed1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
