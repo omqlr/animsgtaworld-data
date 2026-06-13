@@ -2926,6 +2926,22 @@
       "preview": "previews/bedtime2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bedtime3",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo",
+        "Movimiento"
+      ],
+      "preview": "previews/bedtime3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
