@@ -1127,6 +1127,21 @@
       "preview": "previews/sitlegsup.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim officesit1",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/officesit1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
