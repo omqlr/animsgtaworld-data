@@ -2111,6 +2111,21 @@
       "preview": "previews/msitchair16.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim fsitchair1",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/fsitchair1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
