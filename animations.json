@@ -2743,6 +2743,21 @@
       "preview": "previews/proneaim.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sleepread",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/sleepread.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
