@@ -315,6 +315,24 @@
       "preview": "previews/elbowsit2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim desksitreading",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento",
+        "Leer",
+        "Sostener"
+      ],
+      "preview": "previews/desksitreading.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
