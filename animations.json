@@ -117,6 +117,21 @@
       "preview": "previews/sit6.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sit7",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/sit7.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
