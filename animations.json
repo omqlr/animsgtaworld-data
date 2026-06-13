@@ -1677,6 +1677,23 @@
       "preview": "previews/femalerelaxedsitting8.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malerelaxedsitting1",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Cama",
+        "Sofa"
+      ],
+      "preview": "previews/malerelaxedsitting1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
