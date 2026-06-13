@@ -248,6 +248,21 @@
       "preview": "previews/sitbeerdrunk.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim lazy",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Movimiento"
+      ],
+      "preview": "previews/lazy.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
