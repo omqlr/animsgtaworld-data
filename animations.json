@@ -2398,6 +2398,21 @@
       "preview": "previews/malesit5.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malesit6",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/malesit6.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
