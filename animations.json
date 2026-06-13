@@ -280,6 +280,22 @@
       "preview": "previews/stairssit.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim elbowsit",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/elbowsit.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
