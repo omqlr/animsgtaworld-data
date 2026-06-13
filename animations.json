@@ -2593,6 +2593,21 @@
       "preview": "previews/layleft.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim layright",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/layright.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
