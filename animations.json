@@ -1331,6 +1331,22 @@
       "preview": "previews/officesit13.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim officesit14",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/officesit14.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
