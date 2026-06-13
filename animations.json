@@ -2653,6 +2653,21 @@
       "preview": "previews/sunbatheback.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sunbathefront",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/sunbathefront.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
