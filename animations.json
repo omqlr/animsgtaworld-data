@@ -1520,6 +1520,23 @@
       "preview": "previews/femalesitting5.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim armchairrelaxed",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Sofa",
+        "Cama"
+      ],
+      "preview": "previews/armchairrelaxed.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
