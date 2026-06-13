@@ -2895,6 +2895,22 @@
       "preview": "previews/femalelaying.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bedtime1",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo",
+        "Movimiento"
+      ],
+      "preview": "previews/bedtime1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
