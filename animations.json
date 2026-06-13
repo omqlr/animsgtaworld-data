@@ -365,6 +365,23 @@
       "preview": "previews/desksit1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim desksit2",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento",
+        "Teclear"
+      ],
+      "preview": "previews/desksit2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
