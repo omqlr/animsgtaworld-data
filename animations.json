@@ -2234,6 +2234,20 @@
       "preview": "previews/fsitchair8.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim frustratedsit",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Silla"
+      ],
+      "preview": "previews/frustratedsit.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
