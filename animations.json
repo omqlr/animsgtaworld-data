@@ -1081,6 +1081,21 @@
       "preview": "previews/sitchair42.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitmale1",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/sitmale1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
