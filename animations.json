@@ -2293,6 +2293,21 @@
       "preview": "previews/crossedlegarmchair2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leftlegarmchair",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/leftlegarmchair.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
