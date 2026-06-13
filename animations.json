@@ -2503,21 +2503,6 @@
       "preview": "previews/pokersit4.mp4",
       "custom": false,
       "author": null
-    },
-    {
-      "command": "/anim liedown2",
-      "name": null,
-      "categories": [
-        "Sitting"
-      ],
-      "tags": [
-        "Acostado",
-        "Cama",
-        "Suelo"
-      ],
-      "preview": "previews/liedown2.png",
-      "custom": false,
-      "author": null
     }
   ]
 }
