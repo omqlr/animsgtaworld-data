@@ -2880,6 +2880,21 @@
       "preview": "previews/layingonground2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalelaying",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/femalelaying.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
