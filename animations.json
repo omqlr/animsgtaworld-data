@@ -413,6 +413,22 @@
       "preview": "previews/weepingsit.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitchair",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/sitchair.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
