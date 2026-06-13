@@ -2248,6 +2248,21 @@
       "preview": "previews/frustratedsit.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim gentlemensitting",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/gentlemensitting.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
