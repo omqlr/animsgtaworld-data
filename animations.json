@@ -1744,6 +1744,21 @@
       "preview": "previews/malerelaxedsitting4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malerelaxedsitting5",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/malerelaxedsitting5.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
