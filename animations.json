@@ -333,6 +333,23 @@
       "preview": "previews/desksitreading.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim deskwork",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento",
+        "Trabajo"
+      ],
+      "preview": "previews/deskwork.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
