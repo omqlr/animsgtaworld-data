@@ -1537,6 +1537,21 @@
       "preview": "previews/armchairrelaxed.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalesittingstool",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/femalesittingstool.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
