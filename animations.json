@@ -382,6 +382,22 @@
       "preview": "previews/desksit2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim toiletsit",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla",
+        "Movimiento"
+      ],
+      "preview": "previews/toiletsit.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
