@@ -2443,6 +2443,21 @@
       "preview": "previews/malesit8.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim pokersit1",
+      "name": null,
+      "categories": [
+        "Sitting"
+      ],
+      "tags": [
+        "Sentarse",
+        "Chill",
+        "Silla"
+      ],
+      "preview": "previews/pokersit1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
