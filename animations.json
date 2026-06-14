@@ -4811,6 +4811,21 @@
       "preview": "previews/timid.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femaleattitude",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento"
+      ],
+      "preview": "previews/femaleattitude.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
