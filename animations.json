@@ -3164,6 +3164,21 @@
       "preview": "previews/stretch.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim stretch2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Stretch"
+      ],
+      "preview": "previews/stretch2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
