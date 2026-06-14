@@ -4317,6 +4317,22 @@
       "preview": "previews/idle38.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle39",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Idle",
+        "Crossarms"
+      ],
+      "preview": "previews/idle39.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
