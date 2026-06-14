@@ -3364,6 +3364,21 @@
       "preview": "previews/sassyblowkiss.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalecrossedarms1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Pose"
+      ],
+      "preview": "previews/femalecrossedarms1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
