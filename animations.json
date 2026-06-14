@@ -3379,6 +3379,21 @@
       "preview": "previews/femalecrossedarms1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalecrossedarms2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Pose",
+        "Movimiento",
+        "Standing"
+      ],
+      "preview": "previews/femalecrossedarms2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
