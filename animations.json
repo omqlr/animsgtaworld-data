@@ -4976,6 +4976,22 @@
       "preview": "previews/shystanding2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim crossedarms",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Policia",
+        "Seguridad"
+      ],
+      "preview": "previews/crossedarms.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
