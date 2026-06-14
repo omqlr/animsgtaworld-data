@@ -4917,6 +4917,19 @@
       "preview": "previews/femalestance6.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim toughguy1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing"
+      ],
+      "preview": "previews/toughguy1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
