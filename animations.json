@@ -3591,6 +3591,22 @@
       "preview": "previews/femalepose6.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalepose7",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Jarra",
+        "Standing",
+        "Pose",
+        "Meme"
+      ],
+      "preview": "previews/femalepose7.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
