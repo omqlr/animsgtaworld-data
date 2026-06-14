@@ -4709,6 +4709,23 @@
       "preview": "previews/61.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim 62",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento",
+        "Seguridad",
+        "Policia"
+      ],
+      "preview": "previews/62.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
