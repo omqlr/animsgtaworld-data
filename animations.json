@@ -3837,6 +3837,22 @@
       "preview": "previews/idle8.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle9",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento",
+        "Policia"
+      ],
+      "preview": "previews/idle9.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
