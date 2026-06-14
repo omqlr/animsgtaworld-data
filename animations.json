@@ -3607,6 +3607,20 @@
       "preview": "previews/femalepose7.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim warminghands",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento"
+      ],
+      "preview": "previews/warminghands.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
