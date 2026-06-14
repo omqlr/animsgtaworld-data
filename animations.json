@@ -5008,6 +5008,22 @@
       "preview": "previews/cuffedstand1.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim cuffedstand2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Cuffed",
+        "Esposado",
+        "Cuffed"
+      ],
+      "preview": "previews/cuffedstand2.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
