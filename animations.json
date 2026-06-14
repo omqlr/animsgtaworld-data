@@ -5024,6 +5024,23 @@
       "preview": "previews/cuffedstand2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim fronthandcuffs",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Cuffed",
+        "Esposado",
+        "Cuffed",
+        "Movimiento"
+      ],
+      "preview": "previews/fronthandcuffs.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
