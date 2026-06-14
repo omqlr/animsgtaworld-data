@@ -3424,6 +3424,21 @@
       "preview": "previews/femalecrossedarms4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femaleholdarm1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Pose",
+        "Timido",
+        "Standing"
+      ],
+      "preview": "previews/femaleholdarm1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
