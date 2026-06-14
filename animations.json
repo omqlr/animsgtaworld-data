@@ -5041,6 +5041,21 @@
       "preview": "previews/fronthandcuffs.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim handonbarstand",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Lean",
+        "Apoyarse"
+      ],
+      "preview": "previews/handonbarstand.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
