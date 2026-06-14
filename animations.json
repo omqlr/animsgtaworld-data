@@ -2942,6 +2942,21 @@
       "preview": "previews/bedtime3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim handatchin",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/handatchin.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
