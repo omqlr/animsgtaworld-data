@@ -4763,6 +4763,22 @@
       "preview": "previews/64.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim 65",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento",
+        "Frustrated"
+      ],
+      "preview": "previews/65.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
