@@ -3885,6 +3885,23 @@
       "preview": "previews/idle11.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle12",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Police",
+        "Movimiento",
+        "Idle",
+        "Cinturon"
+      ],
+      "preview": "previews/idle12.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
