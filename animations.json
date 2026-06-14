@@ -4992,6 +4992,22 @@
       "preview": "previews/crossedarms.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim cuffedstand1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Cuffed",
+        "Esposado",
+        "Cuffed"
+      ],
+      "preview": "previews/cuffedstand1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
