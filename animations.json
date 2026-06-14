@@ -3713,6 +3713,21 @@
       "preview": "previews/foldarm1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento"
+      ],
+      "preview": "previews/idle1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
