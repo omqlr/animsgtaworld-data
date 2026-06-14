@@ -3225,6 +3225,22 @@
       "preview": "previews/friskstance.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim standbar",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Stand",
+        "Apoyado",
+        "Movimiento",
+        "Bar"
+      ],
+      "preview": "previews/standbar.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
