@@ -3256,6 +3256,21 @@
       "preview": "previews/johnwayne.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim handonhip",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Pose"
+      ],
+      "preview": "previews/handonhip.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
