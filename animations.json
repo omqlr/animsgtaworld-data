@@ -3621,6 +3621,21 @@
       "preview": "previews/warminghands.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalestanding1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Pose",
+        "Standing",
+        "Movimiento"
+      ],
+      "preview": "previews/femalestanding1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
