@@ -3047,6 +3047,20 @@
       "preview": "previews/aim2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim aim3",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Apuntar",
+        "Standing"
+      ],
+      "preview": "previews/aim3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
