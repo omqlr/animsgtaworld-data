@@ -3528,6 +3528,20 @@
       "preview": "previews/femalepose2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalepose3",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Pose"
+      ],
+      "preview": "previews/femalepose3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
