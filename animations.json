@@ -4946,6 +4946,21 @@
       "preview": "previews/toughguy2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim shystanding",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Idle"
+      ],
+      "preview": "previews/shystanding.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
