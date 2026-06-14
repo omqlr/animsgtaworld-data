@@ -3542,6 +3542,22 @@
       "preview": "previews/femalepose3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalepose4",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Arrogance",
+        "Pose",
+        "Standing",
+        "Thinking"
+      ],
+      "preview": "previews/femalepose4.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
