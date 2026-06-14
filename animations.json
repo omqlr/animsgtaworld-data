@@ -3790,6 +3790,22 @@
       "preview": "previews/idle5.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle6",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Thinking",
+        "Standing",
+        "Movimiento",
+        "Idle"
+      ],
+      "preview": "previews/idle6.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
