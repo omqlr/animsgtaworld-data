@@ -3667,6 +3667,21 @@
       "preview": "previews/femalestanding3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim cracksafe",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Robo"
+      ],
+      "preview": "previews/cracksafe.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
