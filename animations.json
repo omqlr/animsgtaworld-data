@@ -5073,6 +5073,23 @@
       "preview": "previews/valetstand.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim lookingatground",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Cansado",
+        "Tired",
+        "Standing",
+        "Idle",
+        "Movimiento"
+      ],
+      "preview": "previews/lookingatground.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
