@@ -3348,6 +3348,22 @@
       "preview": "previews/sassystand.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sassyblowkiss",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Pose",
+        "Beso",
+        "Amor"
+      ],
+      "preview": "previews/sassyblowkiss.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
