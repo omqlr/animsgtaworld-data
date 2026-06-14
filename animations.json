@@ -3104,6 +3104,20 @@
       "preview": "previews/clean.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim clean2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Limpiar",
+        "Movimiento"
+      ],
+      "preview": "previews/clean2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
