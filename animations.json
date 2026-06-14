@@ -3651,6 +3651,22 @@
       "preview": "previews/femalestanding2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalestanding3",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Chill",
+        "Movimiento",
+        "Jarra"
+      ],
+      "preview": "previews/femalestanding3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
