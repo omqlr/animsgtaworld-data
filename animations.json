@@ -3558,6 +3558,23 @@
       "preview": "previews/femalepose4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalepose5",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Meme",
+        "Shy",
+        "Standing",
+        "Pose",
+        "Movimiento"
+      ],
+      "preview": "previews/femalepose5.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
