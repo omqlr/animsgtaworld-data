@@ -4237,6 +4237,23 @@
       "preview": "previews/idle33.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle34",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Idle",
+        "Shy",
+        "Timido"
+      ],
+      "preview": "previews/idle34.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
