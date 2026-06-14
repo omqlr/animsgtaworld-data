@@ -2987,6 +2987,21 @@
       "preview": "previews/layback2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim layback3",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/layback3.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
