@@ -3933,6 +3933,23 @@
       "preview": "previews/idle14.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle15",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Movimiento",
+        "Idle",
+        "Standing",
+        "Hablar",
+        "Talk"
+      ],
+      "preview": "previews/idle15.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
