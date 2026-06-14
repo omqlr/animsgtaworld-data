@@ -3333,6 +3333,21 @@
       "preview": "previews/shower.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sassystand",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Pose",
+        "Movimiento"
+      ],
+      "preview": "previews/sassystand.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
