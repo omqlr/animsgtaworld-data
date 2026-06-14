@@ -4492,6 +4492,22 @@
       "preview": "previews/idle49.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle50",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Idle",
+        "Grosero"
+      ],
+      "preview": "previews/idle50.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
