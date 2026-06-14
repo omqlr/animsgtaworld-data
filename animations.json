@@ -3636,6 +3636,21 @@
       "preview": "previews/femalestanding1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalestanding2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Chill",
+        "Movimiento"
+      ],
+      "preview": "previews/femalestanding2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
