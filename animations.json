@@ -3133,6 +3133,21 @@
       "preview": "previews/crossarms1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim crossarms2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Chill",
+        "Crossarms"
+      ],
+      "preview": "previews/crossarms2.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
