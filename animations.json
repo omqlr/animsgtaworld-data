@@ -4677,6 +4677,23 @@
       "preview": null,
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim cough",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Idle",
+        "Tos",
+        "Cough"
+      ],
+      "preview": "previews/cough.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
