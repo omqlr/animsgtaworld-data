@@ -3118,6 +3118,21 @@
       "preview": "previews/clean2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim crossarms1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Pose",
+        "Crossarms"
+      ],
+      "preview": "previews/crossarms1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
