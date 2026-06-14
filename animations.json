@@ -3179,6 +3179,21 @@
       "preview": "previews/stretch2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim arrogantstance",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Pose",
+        "Arrogance"
+      ],
+      "preview": "previews/arrogantstance.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
