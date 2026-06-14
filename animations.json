@@ -3287,6 +3287,21 @@
       "preview": "previews/malehandsonhips.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim fightingwords",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Enfadado",
+        "Movimiento"
+      ],
+      "preview": "previews/fightingwords.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
