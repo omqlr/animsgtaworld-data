@@ -4856,6 +4856,21 @@
       "preview": "previews/femalestance2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalestance3",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento"
+      ],
+      "preview": "previews/femalestance3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
