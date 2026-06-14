@@ -3773,6 +3773,23 @@
       "preview": "previews/idle4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle5",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento",
+        "Zombie",
+        "Drunk"
+      ],
+      "preview": "previews/idle5.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
