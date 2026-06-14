@@ -3210,6 +3210,21 @@
       "preview": "previews/shystance.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim friskstance",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "TPOSE",
+        "Standing",
+        "Meme"
+      ],
+      "preview": "previews/friskstance.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
