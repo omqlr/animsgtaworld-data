@@ -3032,6 +3032,21 @@
       "preview": "previews/aim1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim aim2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Apuntar",
+        "Standing",
+        "Movimiento"
+      ],
+      "preview": "previews/aim2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
