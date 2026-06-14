@@ -4743,6 +4743,26 @@
       "preview": "previews/63.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim 64",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento",
+        "Frustrated",
+        "Talk",
+        "Hablar",
+        "Angry",
+        "Enfadado"
+      ],
+      "preview": "previews/64.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
