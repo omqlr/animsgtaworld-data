@@ -5056,6 +5056,23 @@
       "preview": "previews/handonbarstand.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim valetstand",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Idle",
+        "Movimiento",
+        "Standing",
+        "Combinable",
+        "Upperbody"
+      ],
+      "preview": "previews/valetstand.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
