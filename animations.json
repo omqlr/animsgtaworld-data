@@ -3090,6 +3090,20 @@
       "preview": "previews/copaim.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim clean",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Limpiar",
+        "Agachado"
+      ],
+      "preview": "previews/clean.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
