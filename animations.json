@@ -4662,6 +4662,21 @@
       "preview": "previews/idle60.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim doorknock",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Bug",
+        "nofunciona",
+        "doesntwork"
+      ],
+      "preview": null,
+      "custom": false,
+      "author": null
     }
   ]
 }
