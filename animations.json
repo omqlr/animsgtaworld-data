@@ -4726,6 +4726,23 @@
       "preview": "previews/62.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim 63",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento",
+        "Leaning",
+        "Leanback"
+      ],
+      "preview": "previews/63.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
