@@ -5106,6 +5106,22 @@
       "preview": "previews/idlehandsinpockets1.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idlehandsinpockets2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Combinable",
+        "Upperbody",
+        "Idle",
+        "Standing"
+      ],
+      "preview": "previews/idlehandsinpockets2.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
