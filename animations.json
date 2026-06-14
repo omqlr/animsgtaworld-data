@@ -3575,6 +3575,22 @@
       "preview": "previews/femalepose5.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalepose6",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Chill",
+        "Movimiento",
+        "Pose"
+      ],
+      "preview": "previews/femalepose6.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
