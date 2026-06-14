@@ -3497,6 +3497,21 @@
       "preview": "previews/crossedhands3.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalepose1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Pose",
+        "Standing",
+        "Arrogance"
+      ],
+      "preview": "previews/femalepose1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
