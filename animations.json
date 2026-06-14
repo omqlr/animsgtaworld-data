@@ -3902,6 +3902,21 @@
       "preview": "previews/idle12.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle13",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Chill",
+        "Movimiento"
+      ],
+      "preview": "previews/idle13.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
