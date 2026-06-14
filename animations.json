@@ -4602,6 +4602,21 @@
       "preview": "previews/idle56.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle57",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Idle"
+      ],
+      "preview": "previews/idle57.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
