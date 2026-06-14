@@ -4930,6 +4930,22 @@
       "preview": "previews/toughguy1.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim toughguy2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Michael",
+        "Default",
+        "Movimiento"
+      ],
+      "preview": "previews/toughguy2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
