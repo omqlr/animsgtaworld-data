@@ -3682,6 +3682,22 @@
       "preview": "previews/cracksafe.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalehiphands1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Pose",
+        "Meme",
+        "XinZhao"
+      ],
+      "preview": "previews/femalehiphands1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
