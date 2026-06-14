@@ -3148,6 +3148,22 @@
       "preview": "previews/crossarms2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim stretch",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Chill",
+        "Stretch",
+        "Movimiento"
+      ],
+      "preview": "previews/stretch.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
