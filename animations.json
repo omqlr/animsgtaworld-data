@@ -3468,6 +3468,21 @@
       "preview": "previews/crossedhands1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim crossedhands2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Pose",
+        "Seguridad"
+      ],
+      "preview": "previews/crossedhands2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
