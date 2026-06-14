@@ -3743,6 +3743,21 @@
       "preview": "previews/idle2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle3",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento"
+      ],
+      "preview": "previews/idle3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
