@@ -3302,6 +3302,22 @@
       "preview": "previews/fightingwords.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim jazzercise",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Baile",
+        "Funny"
+      ],
+      "preview": "previews/jazzercise.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
