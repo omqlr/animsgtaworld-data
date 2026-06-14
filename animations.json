@@ -3318,6 +3318,21 @@
       "preview": "previews/jazzercise.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim shower",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Ducha",
+        "Movimiento"
+      ],
+      "preview": "previews/shower.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
