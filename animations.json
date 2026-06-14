@@ -4019,6 +4019,23 @@
       "preview": "previews/idle19.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle20",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Idle",
+        "Policia",
+        "Seguridad"
+      ],
+      "preview": "previews/idle20.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
