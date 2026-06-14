@@ -5122,6 +5122,21 @@
       "preview": "previews/idlehandsinpockets2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim walkdrink",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Items",
+        "Movimiento"
+      ],
+      "preview": "previews/walkdrink.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
