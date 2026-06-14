@@ -4779,6 +4779,21 @@
       "preview": "previews/65.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim 66",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento"
+      ],
+      "preview": "previews/66.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
