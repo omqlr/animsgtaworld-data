@@ -2957,6 +2957,21 @@
       "preview": "previews/handatchin.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim layback1",
+      "name": null,
+      "categories": [
+        "Laying"
+      ],
+      "tags": [
+        "Acostado",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/layback1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
