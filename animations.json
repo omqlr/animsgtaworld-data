@@ -4794,6 +4794,23 @@
       "preview": "previews/66.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim timid",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Idle",
+        "Movimiento",
+        "Shy",
+        "Timido"
+      ],
+      "preview": "previews/timid.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
