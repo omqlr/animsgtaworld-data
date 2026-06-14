@@ -4001,6 +4001,24 @@
       "preview": "previews/idle18.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle19",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Crossarms",
+        "Talk",
+        "Hablar",
+        "Movimiento",
+        "Idle"
+      ],
+      "preview": "previews/idle19.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
