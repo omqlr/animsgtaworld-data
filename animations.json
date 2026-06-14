@@ -4221,6 +4221,22 @@
       "preview": "previews/idle32.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idle33",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Idle",
+        "Timido"
+      ],
+      "preview": "previews/idle33.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
