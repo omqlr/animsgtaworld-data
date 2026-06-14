@@ -3698,6 +3698,21 @@
       "preview": "previews/femalehiphands1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim foldarm1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Crossarms"
+      ],
+      "preview": "previews/foldarm1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
