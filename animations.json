@@ -3194,6 +3194,22 @@
       "preview": "previews/arrogantstance.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim shystance",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Movimiento",
+        "Shy",
+        "Timido"
+      ],
+      "preview": "previews/shystance.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
