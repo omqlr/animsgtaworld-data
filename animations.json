@@ -3512,6 +3512,22 @@
       "preview": "previews/femalepose1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalepose2",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Standing",
+        "Thinking",
+        "Pose",
+        "Shy"
+      ],
+      "preview": "previews/femalepose2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
