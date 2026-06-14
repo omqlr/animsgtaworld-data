@@ -5090,6 +5090,22 @@
       "preview": "previews/lookingatground.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim idlehandsinpockets1",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Combinable",
+        "Upperbody",
+        "Idle",
+        "Standing"
+      ],
+      "preview": "previews/idlehandsinpockets1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
