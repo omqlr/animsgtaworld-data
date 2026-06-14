@@ -3075,6 +3075,21 @@
       "preview": "previews/aim4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim copaim",
+      "name": null,
+      "categories": [
+        "Standing"
+      ],
+      "tags": [
+        "Apuntar",
+        "Standing",
+        "Movimiento"
+      ],
+      "preview": "previews/copaim.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
