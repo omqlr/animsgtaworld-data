@@ -5233,6 +5233,22 @@
       "preview": "previews/walkeat3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim coffee1",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Comida",
+        "Item",
+        "Movimiento",
+        "Food"
+      ],
+      "preview": "previews/coffee1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
