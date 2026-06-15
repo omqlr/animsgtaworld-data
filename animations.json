@@ -5281,6 +5281,22 @@
       "preview": "previews/can1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim canhold",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Comida",
+        "Item",
+        "Movimiento",
+        "Food"
+      ],
+      "preview": "previews/canhold.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
