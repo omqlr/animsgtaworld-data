@@ -5153,6 +5153,22 @@
       "preview": "previews/walkdrink2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim walkdrink3",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Comida",
+        "Item",
+        "Movimiento",
+        "Food"
+      ],
+      "preview": "previews/walkdrink3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
