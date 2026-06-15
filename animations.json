@@ -5265,6 +5265,22 @@
       "preview": "previews/coffee2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim can1",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Comida",
+        "Item",
+        "Movimiento",
+        "Food"
+      ],
+      "preview": "previews/can1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
