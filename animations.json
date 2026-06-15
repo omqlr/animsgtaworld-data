@@ -5217,6 +5217,22 @@
       "preview": "previews/walkeat2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim walkeat3",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Comida",
+        "Item",
+        "Movimiento",
+        "Food"
+      ],
+      "preview": "previews/walkeat3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
