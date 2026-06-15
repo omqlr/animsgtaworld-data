@@ -5297,6 +5297,22 @@
       "preview": "previews/canhold.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim coffeehold",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Comida",
+        "Item",
+        "Movimiento",
+        "Food"
+      ],
+      "preview": "previews/coffeehold.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
