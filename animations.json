@@ -6108,6 +6108,20 @@
       "preview": "previews/kiss.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bro",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/bro.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
