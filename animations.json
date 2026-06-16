@@ -6461,6 +6461,20 @@
       "preview": "previews/wave.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim loco",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/loco.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
