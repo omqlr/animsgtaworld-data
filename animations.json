@@ -8600,6 +8600,21 @@
       "preview": "previews/phonesit2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim phonesit3",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Movimiento",
+        "Sitting"
+      ],
+      "preview": "previews/phonesit3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
