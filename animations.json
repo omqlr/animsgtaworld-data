@@ -8763,6 +8763,20 @@
       "preview": "previews/phoneconvo2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim phoneconvo3",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Movimiento"
+      ],
+      "preview": "previews/phoneconvo3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
