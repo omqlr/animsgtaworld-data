@@ -5954,6 +5954,21 @@
       "preview": "previews/welding.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim welding2",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Item"
+      ],
+      "preview": "previews/welding2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
