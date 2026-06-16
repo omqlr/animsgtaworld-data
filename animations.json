@@ -8443,6 +8443,19 @@
       "preview": "previews/selfie4.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim selfie5",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone"
+      ],
+      "preview": "previews/selfie5.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
