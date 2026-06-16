@@ -5762,6 +5762,20 @@
       "preview": "previews/standingkeyboard.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim enginemechanic1",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento"
+      ],
+      "preview": "previews/enginemechanic1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
