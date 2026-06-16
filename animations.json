@@ -5581,6 +5581,22 @@
       "preview": "previews/drinkwhisky.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim drinkchampagne",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento",
+        "Item"
+      ],
+      "preview": "previews/drinkchampagne.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
