@@ -6080,6 +6080,20 @@
       "preview": "previews/shagging.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim synth",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/synth.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
