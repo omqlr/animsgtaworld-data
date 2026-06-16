@@ -5548,6 +5548,22 @@
       "preview": "previews/leanbrownbag.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim partydancedrinking",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento",
+        "Item"
+      ],
+      "preview": "previews/partydancedrinking.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
