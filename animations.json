@@ -6796,6 +6796,19 @@
       "preview": "previews/chidori.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim gangsign1",
+      "name": null,
+      "categories": [
+        "Gangsigns"
+      ],
+      "tags": [
+        "Gangsign"
+      ],
+      "preview": "previews/gangsign1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
