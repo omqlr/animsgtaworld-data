@@ -8539,6 +8539,21 @@
       "preview": "previews/phone3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim phone4",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Movimiento",
+        "Default"
+      ],
+      "preview": "previews/phone4.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
