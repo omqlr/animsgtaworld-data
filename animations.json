@@ -6066,6 +6066,20 @@
       "preview": "previews/airguitar.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim shagging",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/shagging.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
