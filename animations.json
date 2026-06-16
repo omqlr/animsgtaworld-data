@@ -5391,6 +5391,22 @@
       "preview": "previews/tequilahold5.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim tequilahold4",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento",
+        "Bug"
+      ],
+      "preview": "previews/tequilahold4.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
