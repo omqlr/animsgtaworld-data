@@ -6447,6 +6447,20 @@
       "preview": "previews/wank.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim wave",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/wave.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
