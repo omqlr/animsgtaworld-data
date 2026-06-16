@@ -6234,6 +6234,20 @@
       "preview": "previews/jazzhands.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim knuckle",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/knuckle.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
