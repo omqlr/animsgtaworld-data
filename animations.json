@@ -6178,6 +6178,20 @@
       "preview": "previews/dock.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim facepalm",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/facepalm.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
