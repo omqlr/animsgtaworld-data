@@ -8484,6 +8484,19 @@
       "preview": "previews/selfie7.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim selfie8",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone"
+      ],
+      "preview": "previews/selfie8.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
