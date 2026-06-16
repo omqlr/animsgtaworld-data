@@ -6248,6 +6248,20 @@
       "preview": "previews/knuckle.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim nose",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/nose.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
