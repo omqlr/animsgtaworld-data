@@ -6332,6 +6332,20 @@
       "preview": "previews/salute.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim salute2",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/salute2.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
