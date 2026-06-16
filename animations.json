@@ -6346,6 +6346,20 @@
       "preview": "previews/salute2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim shush",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/shush.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
