@@ -6304,6 +6304,20 @@
       "preview": "previews/photo.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim rock",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/rock.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
