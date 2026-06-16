@@ -5790,6 +5790,23 @@
       "preview": "previews/enginemechanic2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim cprstart",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Medic",
+        "Medico",
+        "EMS"
+      ],
+      "preview": "previews/cprstart.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
