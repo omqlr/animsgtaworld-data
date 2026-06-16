@@ -6192,6 +6192,20 @@
       "preview": "previews/facepalm.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim fingerkiss",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/fingerkiss.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
