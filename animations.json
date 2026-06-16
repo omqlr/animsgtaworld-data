@@ -6416,6 +6416,23 @@
       "preview": "previews/taunt.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim vsign",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento",
+        "SIXSEVEN",
+        "67",
+        "SEISSIETE"
+      ],
+      "preview": "previews/vsign.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
