@@ -6589,6 +6589,22 @@
       "preview": "previews/taunting4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim taunting6",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento",
+        "Sport",
+        "Deporte"
+      ],
+      "preview": "previews/taunting6.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
