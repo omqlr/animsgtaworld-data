@@ -8387,6 +8387,20 @@
       "preview": "previews/gangsign123.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim selfie1",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Bug"
+      ],
+      "preview": "previews/selfie1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
