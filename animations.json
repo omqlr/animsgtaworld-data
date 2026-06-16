@@ -6927,6 +6927,21 @@
       "preview": "previews/gangsign10.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim gangsign11",
+      "name": null,
+      "categories": [
+        "Gangsigns"
+      ],
+      "tags": [
+        "Gangsign",
+        "Meme",
+        "Codificando"
+      ],
+      "preview": "previews/gangsign11.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
