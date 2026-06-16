@@ -5532,6 +5532,22 @@
       "preview": "previews/leandrink.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leanbrownbag",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento",
+        "Item"
+      ],
+      "preview": "previews/leanbrownbag.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
