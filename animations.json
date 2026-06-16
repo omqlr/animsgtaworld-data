@@ -8629,6 +8629,20 @@
       "preview": "previews/phonestand1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim phonestand2",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Movimiento"
+      ],
+      "preview": "previews/phonestand2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
