@@ -6276,6 +6276,20 @@
       "preview": "previews/no.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim peace",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/peace.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
