@@ -6783,6 +6783,19 @@
       "preview": "previews/zombie11.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim chidori",
+      "name": null,
+      "categories": [
+        "Gangsigns"
+      ],
+      "tags": [
+        "Gangsign"
+      ],
+      "preview": "previews/chidori.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
