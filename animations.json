@@ -5875,6 +5875,21 @@
       "preview": "previews/applycpr.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bartenderpour",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Bartender"
+      ],
+      "preview": "previews/bartenderpour.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
