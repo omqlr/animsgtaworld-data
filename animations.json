@@ -8585,6 +8585,21 @@
       "preview": "previews/phonesit1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim phonesit2",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Movimiento",
+        "Sitting"
+      ],
+      "preview": "previews/phonesit2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
