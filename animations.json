@@ -6262,6 +6262,20 @@
       "preview": "previews/nose.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim no",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/no.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
