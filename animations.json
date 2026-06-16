@@ -8735,6 +8735,20 @@
       "preview": "previews/phonelean4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim phoneconvo",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Movimiento"
+      ],
+      "preview": "previews/phoneconvo.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
