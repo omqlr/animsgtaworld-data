@@ -5329,6 +5329,21 @@
       "preview": "previews/coffeehold2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim ciderhold",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento"
+      ],
+      "preview": "previews/ciderhold.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
