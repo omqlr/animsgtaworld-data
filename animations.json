@@ -5983,6 +5983,20 @@
       "preview": "previews/finger.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim finger2",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/finger2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
