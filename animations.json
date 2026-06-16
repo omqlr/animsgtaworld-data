@@ -5746,6 +5746,22 @@
       "preview": "previews/trafficleft4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim standingkeyboard",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Keyboard",
+        "Standing"
+      ],
+      "preview": "previews/standingkeyboard.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
