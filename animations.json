@@ -6475,6 +6475,21 @@
       "preview": "previews/loco.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim ok",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento",
+        "Combinable"
+      ],
+      "preview": "previews/ok.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
