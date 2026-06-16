@@ -8777,6 +8777,17 @@
       "preview": "previews/phoneconvo3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim payphone1",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [],
+      "preview": "previews/payphone1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
