@@ -5453,6 +5453,21 @@
       "preview": "previews/wineglasshold.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim beerhold",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento"
+      ],
+      "preview": "previews/beerhold.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
