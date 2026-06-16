@@ -7267,6 +7267,19 @@
       "preview": "previews/gangsign36.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim gangsign37",
+      "name": null,
+      "categories": [
+        "Gangsigns"
+      ],
+      "tags": [
+        "Gangsign"
+      ],
+      "preview": "previews/gangsign37.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
