@@ -5906,6 +5906,22 @@
       "preview": "previews/atmidle.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim atm",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "ATM",
+        "Cajero"
+      ],
+      "preview": "previews/atm.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
