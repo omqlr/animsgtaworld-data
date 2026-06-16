@@ -5997,6 +5997,19 @@
       "preview": "previews/finger2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim finger3",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions"
+      ],
+      "preview": "previews/finger3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
