@@ -5969,6 +5969,20 @@
       "preview": "previews/welding2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim finger",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/finger.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
