@@ -8415,6 +8415,20 @@
       "preview": "previews/selfie2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim selfie3",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Bug"
+      ],
+      "preview": "previews/selfie3.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
