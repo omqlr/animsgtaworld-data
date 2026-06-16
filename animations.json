@@ -6490,6 +6490,20 @@
       "preview": "previews/ok.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim thumbsup",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/thumbsup.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
