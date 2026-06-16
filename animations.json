@@ -6052,6 +6052,20 @@
       "preview": "previews/claphands.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim airguitar",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/airguitar.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
