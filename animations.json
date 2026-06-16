@@ -6518,6 +6518,20 @@
       "preview": "previews/mindreader1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim mindreader2",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/mindreader2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
