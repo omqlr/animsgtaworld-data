@@ -8270,6 +8270,19 @@
       "preview": "previews/gangsign114.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim gangsign115",
+      "name": null,
+      "categories": [
+        "Gangsigns"
+      ],
+      "tags": [
+        "Gangsign"
+      ],
+      "preview": "previews/gangsign115.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
