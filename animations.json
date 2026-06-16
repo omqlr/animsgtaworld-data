@@ -5500,6 +5500,22 @@
       "preview": "previews/shot.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leanwine",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento",
+        "Item"
+      ],
+      "preview": "previews/leanwine.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
