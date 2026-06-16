@@ -7501,6 +7501,20 @@
       "preview": "previews/gangsign54.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim gangsign55",
+      "name": null,
+      "categories": [
+        "Gangsigns"
+      ],
+      "tags": [
+        "Gangsign",
+        "Nazi"
+      ],
+      "preview": "previews/gangsign55.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
