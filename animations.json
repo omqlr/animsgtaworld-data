@@ -6094,6 +6094,20 @@
       "preview": "previews/synth.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim kiss",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/kiss.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
