@@ -6388,6 +6388,20 @@
       "preview": "previews/surrender.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim thumbs",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/thumbs.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
