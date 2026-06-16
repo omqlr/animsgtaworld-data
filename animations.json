@@ -6220,6 +6220,20 @@
       "preview": "previews/freakout.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim jazzhands",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/jazzhands.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
