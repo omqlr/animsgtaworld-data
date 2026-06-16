@@ -6290,6 +6290,20 @@
       "preview": "previews/peace.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim photo",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/photo.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
