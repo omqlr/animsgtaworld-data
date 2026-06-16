@@ -8703,6 +8703,22 @@
       "preview": "previews/phonelean2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim phonelean3",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Movimiento",
+        "Lean",
+        "Apoyado"
+      ],
+      "preview": "previews/phonelean3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
