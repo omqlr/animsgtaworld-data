@@ -6318,6 +6318,20 @@
       "preview": "previews/rock.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim salute",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/salute.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
