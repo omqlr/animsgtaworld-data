@@ -6360,6 +6360,20 @@
       "preview": "previews/shush.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim slowclap",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/slowclap.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
