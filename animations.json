@@ -5597,6 +5597,22 @@
       "preview": "previews/drinkchampagne.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim drinkbeerpaper",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento",
+        "Item"
+      ],
+      "preview": "previews/drinkbeerpaper.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
