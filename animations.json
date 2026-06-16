@@ -8830,6 +8830,20 @@
       "preview": "previews/payphone4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim takepic",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Movimiento"
+      ],
+      "preview": "previews/takepic.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
