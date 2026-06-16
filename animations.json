@@ -5716,6 +5716,21 @@
       "preview": "previews/trafficleft2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim trafficleft3",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Policia"
+      ],
+      "preview": "previews/trafficleft3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
