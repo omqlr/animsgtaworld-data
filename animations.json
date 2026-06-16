@@ -6723,6 +6723,21 @@
       "preview": "previews/zombie7.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim zombie8",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento",
+        "Zombie"
+      ],
+      "preview": "previews/zombie8.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
