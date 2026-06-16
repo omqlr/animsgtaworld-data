@@ -6010,6 +6010,20 @@
       "preview": "previews/finger3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim fuck",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/fuck.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
