@@ -6024,6 +6024,20 @@
       "preview": "previews/fuck.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim crackhands",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/crackhands.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
