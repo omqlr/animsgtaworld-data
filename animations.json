@@ -8554,6 +8554,22 @@
       "preview": "previews/phone4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim phone5",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Movimiento",
+        "Default",
+        "Llamada"
+      ],
+      "preview": "previews/phone5.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
