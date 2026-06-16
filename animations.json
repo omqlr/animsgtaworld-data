@@ -5613,6 +5613,21 @@
       "preview": "previews/drinkbeerpaper.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim mechanic",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Ground"
+      ],
+      "preview": "previews/mechanic.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
