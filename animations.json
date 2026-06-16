@@ -5686,6 +5686,21 @@
       "preview": "previews/mechanic4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim trafficleft1",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Policia"
+      ],
+      "preview": "previews/trafficleft1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
