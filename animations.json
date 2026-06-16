@@ -6038,6 +6038,20 @@
       "preview": "previews/crackhands.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim claphands",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/claphands.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
