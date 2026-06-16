@@ -6546,6 +6546,20 @@
       "preview": "previews/taunting1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim taunting2",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/taunting2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
