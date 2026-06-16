@@ -7931,6 +7931,19 @@
       "preview": "previews/gangsign88.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim gangsign89",
+      "name": null,
+      "categories": [
+        "Gangsigns"
+      ],
+      "tags": [
+        "Gangsign"
+      ],
+      "preview": "previews/gangsign89.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
