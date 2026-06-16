@@ -5643,6 +5643,21 @@
       "preview": "previews/mechanic1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim mechanic2",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Ground"
+      ],
+      "preview": "previews/mechanic2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
