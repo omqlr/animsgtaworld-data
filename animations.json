@@ -5776,6 +5776,20 @@
       "preview": "previews/enginemechanic1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim enginemechanic2",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento"
+      ],
+      "preview": "previews/enginemechanic2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
