@@ -5468,6 +5468,22 @@
       "preview": "previews/beerhold.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim champagnehold",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento",
+        "Item"
+      ],
+      "preview": "previews/champagnehold.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
