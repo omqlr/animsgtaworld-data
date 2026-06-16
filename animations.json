@@ -5858,6 +5858,23 @@
       "preview": "previews/cprfail.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim applycpr",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Medic",
+        "Medico",
+        "EMS"
+      ],
+      "preview": "previews/applycpr.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
