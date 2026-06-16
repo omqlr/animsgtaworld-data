@@ -5438,6 +5438,21 @@
       "preview": "previews/emptyglasshold.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim wineglasshold",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento"
+      ],
+      "preview": "previews/wineglasshold.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
