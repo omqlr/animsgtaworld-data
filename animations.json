@@ -5890,6 +5890,22 @@
       "preview": "previews/bartenderpour.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim atmidle",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "ATM",
+        "Cajero"
+      ],
+      "preview": "previews/atmidle.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
