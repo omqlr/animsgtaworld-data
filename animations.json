@@ -5824,6 +5824,23 @@
       "preview": "previews/cprbreath.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim cpr",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Medic",
+        "Medico",
+        "EMS"
+      ],
+      "preview": "previews/cpr.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
