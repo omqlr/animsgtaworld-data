@@ -5922,6 +5922,23 @@
       "preview": "previews/atm.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim copradioing",
+      "name": null,
+      "categories": [
+        "Working"
+      ],
+      "tags": [
+        "Working",
+        "Movimiento",
+        "Policia",
+        "Bug",
+        "Radio"
+      ],
+      "preview": "previews/copradioing.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
