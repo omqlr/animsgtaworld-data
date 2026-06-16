@@ -6619,6 +6619,21 @@
       "preview": "previews/taunting7.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim zombie1",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento",
+        "Zombie"
+      ],
+      "preview": "previews/zombie1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
