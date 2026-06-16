@@ -6206,6 +6206,20 @@
       "preview": "previews/fingerkiss.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim freakout",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/freakout.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
