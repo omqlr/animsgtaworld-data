@@ -5484,6 +5484,22 @@
       "preview": "previews/champagnehold.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim shot",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento",
+        "Item"
+      ],
+      "preview": "previews/shot.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
