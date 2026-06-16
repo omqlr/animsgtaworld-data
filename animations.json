@@ -6122,6 +6122,20 @@
       "preview": "previews/bro.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim chicken",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/chicken.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
