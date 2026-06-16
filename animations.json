@@ -6164,6 +6164,20 @@
       "preview": "previews/dj.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim dock",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/dock.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
