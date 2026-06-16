@@ -8497,6 +8497,20 @@
       "preview": "previews/selfie8.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim phone1",
+      "name": null,
+      "categories": [
+        "Phone"
+      ],
+      "tags": [
+        "Phone",
+        "Movimiento"
+      ],
+      "preview": "previews/phone1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
