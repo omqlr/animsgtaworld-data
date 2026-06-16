@@ -6402,6 +6402,20 @@
       "preview": "previews/thumbs.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim taunt",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/taunt.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
