@@ -6150,6 +6150,20 @@
       "preview": "previews/chin.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim dj",
+      "name": null,
+      "categories": [
+        "Expressions"
+      ],
+      "tags": [
+        "Expressions",
+        "Movimiento"
+      ],
+      "preview": "previews/dj.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
