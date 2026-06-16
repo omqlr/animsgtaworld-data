@@ -5344,6 +5344,21 @@
       "preview": "previews/ciderhold.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim tequilahold",
+      "name": null,
+      "categories": [
+        "Food"
+      ],
+      "tags": [
+        "Food",
+        "Comida",
+        "Movimiento"
+      ],
+      "preview": "previews/tequilahold.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
