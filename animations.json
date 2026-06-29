@@ -8888,6 +8888,21 @@
       "preview": "previews/sitground2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitground3",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Sitting",
+        "Ground",
+        "Chill"
+      ],
+      "preview": "previews/sitground3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
