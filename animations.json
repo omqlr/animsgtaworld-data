@@ -8948,6 +8948,21 @@
       "preview": "previews/sitground6.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim crouch",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Sitting",
+        "Ground",
+        "Chill"
+      ],
+      "preview": "previews/crouch.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
