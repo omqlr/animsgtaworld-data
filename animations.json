@@ -8963,6 +8963,22 @@
       "preview": "previews/crouch.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim prone",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Abajo",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/prone.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
