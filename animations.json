@@ -8858,6 +8858,21 @@
       "preview": "previews/texting.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitground",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting",
+        "Chill"
+      ],
+      "preview": "previews/sitground.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
