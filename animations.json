@@ -8933,6 +8933,21 @@
       "preview": "previews/sitground5.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitground6",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Sitting",
+        "Ground",
+        "Chill"
+      ],
+      "preview": "previews/sitground6.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
