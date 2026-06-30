@@ -9241,6 +9241,20 @@
       "preview": "previews/legscrossedground.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim throwuptoiltet",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Suelo"
+      ],
+      "preview": "previews/throwuptoiltet.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
