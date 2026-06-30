@@ -10719,6 +10719,19 @@
       "preview": "previews/leancounternazi.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leancounteridle",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leancounteridle.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
