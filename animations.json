@@ -11291,6 +11291,19 @@
       "preview": "previews/leanthinking.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malewallleaning",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/malewallleaning.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
