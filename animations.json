@@ -9785,6 +9785,21 @@
       "preview": "previews/fkneel2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malesitground1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Gangsign",
+        "Sitting"
+      ],
+      "preview": "previews/malesitground1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
