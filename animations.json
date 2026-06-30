@@ -9555,6 +9555,21 @@
       "preview": "previews/hostage.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim dead",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Suelo",
+        "Cama"
+      ],
+      "preview": "previews/dead.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
