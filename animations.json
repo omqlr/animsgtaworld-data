@@ -10433,6 +10433,19 @@
       "preview": "previews/vaping2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bong1",
+      "name": null,
+      "categories": [
+        "Walking"
+      ],
+      "tags": [
+        "Smoking"
+      ],
+      "preview": "previews/bong1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
