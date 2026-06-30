@@ -9630,6 +9630,20 @@
       "preview": "previews/ontheground.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim chillgroundsit",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting"
+      ],
+      "preview": "previews/chillgroundsit.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
