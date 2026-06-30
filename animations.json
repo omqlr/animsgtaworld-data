@@ -10875,6 +10875,19 @@
       "preview": "previews/counterleanbar8.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leanferris2",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leanferris2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
