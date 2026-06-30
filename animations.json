@@ -10992,6 +10992,19 @@
       "preview": "previews/leaningtable2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leancar2",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leancar2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
