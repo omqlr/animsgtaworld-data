@@ -11044,6 +11044,19 @@
       "preview": "previews/leaningahead2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim hangpassenger1",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/hangpassenger1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
