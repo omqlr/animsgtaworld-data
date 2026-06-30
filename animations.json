@@ -10407,6 +10407,19 @@
       "preview": "previews/walk21.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim vaping1",
+      "name": null,
+      "categories": [
+        "Walking"
+      ],
+      "tags": [
+        "Smoking"
+      ],
+      "preview": "previews/vaping1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
