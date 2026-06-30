@@ -9969,6 +9969,21 @@
       "preview": "previews/thinkingcrouch2.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalefloorcrossing1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting",
+        "Pose"
+      ],
+      "preview": "previews/femalefloorcrossing1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
