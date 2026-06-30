@@ -9270,6 +9270,19 @@
       "preview": "previews/sitgroundvideogame.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim meditate",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground"
+      ],
+      "preview": "previews/meditate.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
