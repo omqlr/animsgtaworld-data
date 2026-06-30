@@ -10706,6 +10706,19 @@
       "preview": "previews/leancounterwave.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leancounternazi",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leancounternazi.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
