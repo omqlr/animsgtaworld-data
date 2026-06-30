@@ -9255,6 +9255,21 @@
       "preview": "previews/throwuptoiltet.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sitgroundvideogame",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Jugando",
+        "Movimiento"
+      ],
+      "preview": "previews/sitgroundvideogame.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
