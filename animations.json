@@ -10107,6 +10107,19 @@
       "preview": "previews/copwalk6.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim walkinthepark",
+      "name": null,
+      "categories": [
+        "Walking"
+      ],
+      "tags": [
+        "Walking"
+      ],
+      "preview": "previews/walkinthepark.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
