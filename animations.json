@@ -11304,6 +11304,19 @@
       "preview": "previews/malewallleaning.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malewaitleaning",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/malewaitleaning.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
