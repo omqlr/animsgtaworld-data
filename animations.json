@@ -10068,6 +10068,19 @@
       "preview": "previews/copwalk3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim copwalk4",
+      "name": null,
+      "categories": [
+        "Walking"
+      ],
+      "tags": [
+        "Walking"
+      ],
+      "preview": "previews/copwalk4.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
