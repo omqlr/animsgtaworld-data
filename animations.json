@@ -9501,6 +9501,20 @@
       "preview": "previews/crouched3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim takingcover1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Suelo"
+      ],
+      "preview": "previews/takingcover1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
