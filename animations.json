@@ -9458,6 +9458,20 @@
       "preview": "previews/onground.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim crouched",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Agachado"
+      ],
+      "preview": "previews/crouched.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
