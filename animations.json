@@ -11200,6 +11200,19 @@
       "preview": "previews/leaningcrossedhands.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalelean1",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/femalelean1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
