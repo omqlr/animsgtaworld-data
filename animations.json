@@ -10446,6 +10446,19 @@
       "preview": "previews/bong1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bong2",
+      "name": null,
+      "categories": [
+        "Walking"
+      ],
+      "tags": [
+        "Smoking"
+      ],
+      "preview": "previews/bong2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
