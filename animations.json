@@ -9283,6 +9283,19 @@
       "preview": "previews/meditate.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim walkcrouched1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground"
+      ],
+      "preview": "previews/walkcrouched1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
