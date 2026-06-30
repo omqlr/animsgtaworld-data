@@ -11135,6 +11135,19 @@
       "preview": "previews/leaningrail1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leaningrail2",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leaningrail2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
