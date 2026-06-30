@@ -9875,6 +9875,21 @@
       "preview": "previews/thinkinggroundsit1.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim thinkinggroundsit2",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting",
+        "Pose"
+      ],
+      "preview": "previews/thinkinggroundsit2.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
