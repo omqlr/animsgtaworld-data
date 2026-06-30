@@ -9225,6 +9225,22 @@
       "preview": "previews/grounddigging.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim legscrossedground",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting",
+        "Chill",
+        "Movimiento"
+      ],
+      "preview": "previews/legscrossedground.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
