@@ -10511,6 +10511,19 @@
       "preview": "previews/bcatrighthang.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim layback5",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/layback5.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
