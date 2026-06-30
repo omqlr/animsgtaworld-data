@@ -9800,6 +9800,21 @@
       "preview": "previews/malesitground1.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malesitground2",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting",
+        "Pose"
+      ],
+      "preview": "previews/malesitground2.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
