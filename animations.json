@@ -9616,6 +9616,20 @@
       "preview": "previews/kickedonground.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim ontheground",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Suelo"
+      ],
+      "preview": "previews/ontheground.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
