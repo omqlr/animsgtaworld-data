@@ -10914,6 +10914,19 @@
       "preview": "previews/leanferris4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leaning1",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leaning1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
