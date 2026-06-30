@@ -9179,6 +9179,22 @@
       "preview": "previews/groundhurt2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim groundhurt3",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Herido",
+        "Cama",
+        "Suelo"
+      ],
+      "preview": "previews/groundhurt3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
