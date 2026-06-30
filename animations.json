@@ -11278,6 +11278,19 @@
       "preview": "previews/leandoor.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leanthinking",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leanthinking.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
