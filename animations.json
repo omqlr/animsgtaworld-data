@@ -10485,6 +10485,19 @@
       "preview": "previews/bong4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bcatlefthang",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/bcatlefthang.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
