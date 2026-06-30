@@ -11057,6 +11057,19 @@
       "preview": "previews/hangpassenger1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim hangpassenger2",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/hangpassenger2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
