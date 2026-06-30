@@ -9486,6 +9486,21 @@
       "preview": "previews/crouched2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim crouched3",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Agachado",
+        "Movimiento"
+      ],
+      "preview": "previews/crouched3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
