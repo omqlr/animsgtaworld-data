@@ -10563,6 +10563,19 @@
       "preview": "previews/leanfoot.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leancar",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leancar.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
