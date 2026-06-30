@@ -10133,6 +10133,19 @@
       "preview": "previews/walkinthepark2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim walk1",
+      "name": null,
+      "categories": [
+        "Walking"
+      ],
+      "tags": [
+        "Walking"
+      ],
+      "preview": "previews/walk1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
