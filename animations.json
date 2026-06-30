@@ -9425,6 +9425,23 @@
       "preview": "previews/dontshoot3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim dontshoot4",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "ManosArriba",
+        "handsup",
+        "Scared",
+        "Asustado"
+      ],
+      "preview": "previews/dontshoot4.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
