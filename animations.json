@@ -9210,6 +9210,21 @@
       "preview": "previews/groundhurt4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim grounddigging",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Cavando",
+        "Agachado"
+      ],
+      "preview": "previews/grounddigging.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
