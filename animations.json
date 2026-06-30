@@ -10771,6 +10771,19 @@
       "preview": "previews/handraillean.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femaleleaning",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/femaleleaning.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
