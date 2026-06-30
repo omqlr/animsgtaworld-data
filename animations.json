@@ -11018,6 +11018,19 @@
       "preview": "previews/leancar1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leaningahead1",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leaningahead1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
