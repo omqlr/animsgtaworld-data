@@ -9147,6 +9147,21 @@
       "preview": "previews/pickupbody.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim groundhurt1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Cama",
+        "Herido"
+      ],
+      "preview": "previews/groundhurt1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
