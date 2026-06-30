@@ -9075,6 +9075,20 @@
       "preview": "previews/checkbody2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim checkbody3",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Agachado"
+      ],
+      "preview": "previews/checkbody3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
