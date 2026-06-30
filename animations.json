@@ -11265,6 +11265,19 @@
       "preview": "previews/femalelean6.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leandoor",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leandoor.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
