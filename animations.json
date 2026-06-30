@@ -9771,6 +9771,20 @@
       "preview": "previews/fkneel1.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim fkneel2",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Agachado"
+      ],
+      "preview": "previews/fkneel2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
