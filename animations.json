@@ -10550,6 +10550,19 @@
       "preview": "previews/lean.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leanfoot",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leanfoot.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
