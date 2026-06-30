@@ -10524,6 +10524,19 @@
       "preview": "previews/layback5.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim layback6",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/layback6.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
