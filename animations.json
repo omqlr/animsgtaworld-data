@@ -11031,6 +11031,19 @@
       "preview": "previews/leaningahead1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leaningahead2",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leaningahead2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
