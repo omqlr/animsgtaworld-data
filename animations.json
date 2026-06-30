@@ -9699,6 +9699,20 @@
       "preview": "previews/femalegroundsit1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalegroundsit2",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting"
+      ],
+      "preview": "previews/femalegroundsit2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
