@@ -9756,6 +9756,21 @@
       "preview": "previews/femalegroundsit5.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim fkneel1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting",
+        "Agachado"
+      ],
+      "preview": "previews/fkneel1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
