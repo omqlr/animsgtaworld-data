@@ -9601,6 +9601,21 @@
       "preview": "previews/massageonground.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim kickedonground",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Movimiento",
+        "Paliza"
+      ],
+      "preview": "previews/kickedonground.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
