@@ -9845,6 +9845,21 @@
       "preview": "previews/chillinggroundsit1.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim chillinggroundsit2",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting",
+        "Pose"
+      ],
+      "preview": "previews/chillinggroundsit2.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
