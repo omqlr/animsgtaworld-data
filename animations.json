@@ -10576,6 +10576,19 @@
       "preview": "previews/leancar.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leanrail",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leanrail.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
