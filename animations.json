@@ -11174,6 +11174,19 @@
       "preview": "previews/leaningcrossedarms.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leaningcrossedarms2",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leaningcrossedarms2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
