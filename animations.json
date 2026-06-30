@@ -9586,6 +9586,21 @@
       "preview": "previews/dead2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim massageonground",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Agacharse",
+        "Movimiento"
+      ],
+      "preview": "previews/massageonground.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
