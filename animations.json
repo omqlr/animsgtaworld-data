@@ -10315,6 +10315,20 @@
       "preview": "previews/walk14.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim walk15",
+      "name": null,
+      "categories": [
+        "Walking"
+      ],
+      "tags": [
+        "Walking",
+        "Bug"
+      ],
+      "preview": "previews/walk15.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
