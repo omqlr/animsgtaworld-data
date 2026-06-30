@@ -9133,6 +9133,20 @@
       "preview": "previews/seizure.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim pickupbody",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Movimiento"
+      ],
+      "preview": "previews/pickupbody.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
