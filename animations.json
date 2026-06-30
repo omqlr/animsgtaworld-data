@@ -8995,6 +8995,22 @@
       "preview": "previews/fix2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim fix1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Trabajando",
+        "Working",
+        "Fix"
+      ],
+      "preview": "previews/fix1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
