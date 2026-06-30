@@ -10498,6 +10498,19 @@
       "preview": "previews/bcatlefthang.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bcatrighthang",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/bcatrighthang.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
