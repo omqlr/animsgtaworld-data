@@ -9326,6 +9326,22 @@
       "preview": "previews/bodyonground2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalehostage1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Scared",
+        "Asustado",
+        "Rehen"
+      ],
+      "preview": "previews/femalehostage1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
