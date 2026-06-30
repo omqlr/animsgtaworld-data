@@ -9644,6 +9644,20 @@
       "preview": "previews/chillgroundsit.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalecrouch",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Agachado"
+      ],
+      "preview": "previews/femalecrouch.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
