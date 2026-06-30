@@ -10602,6 +10602,19 @@
       "preview": "previews/leanrailsmoking.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sidelean",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/sidelean.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
