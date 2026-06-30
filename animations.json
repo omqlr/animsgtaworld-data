@@ -9528,6 +9528,19 @@
       "preview": "previews/takingcover2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim takingcover3",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground"
+      ],
+      "preview": "previews/takingcover3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
