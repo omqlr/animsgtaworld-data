@@ -10537,6 +10537,19 @@
       "preview": "previews/layback6.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim lean",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/lean.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
