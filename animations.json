@@ -9935,6 +9935,23 @@
       "preview": "previews/thinkinggroundsit5.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim thinkingcrouch1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting",
+        "Pose",
+        "Agacharse",
+        "Crouching"
+      ],
+      "preview": "previews/thinkingcrouch1.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
