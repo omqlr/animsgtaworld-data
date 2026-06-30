@@ -10589,6 +10589,19 @@
       "preview": "previews/leanrail.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leanrailsmoking",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leanrailsmoking.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
