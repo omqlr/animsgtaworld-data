@@ -10014,6 +10014,21 @@
       "preview": "previews/femalefloorcrossing3.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim tracksuitsquat",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting",
+        "Pose"
+      ],
+      "preview": "previews/tracksuitsquat.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
