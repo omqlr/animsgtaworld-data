@@ -10641,6 +10641,19 @@
       "preview": "previews/sidelean2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim sidelean3",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/sidelean3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
