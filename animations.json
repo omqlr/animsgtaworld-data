@@ -11109,6 +11109,19 @@
       "preview": "previews/tired2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leaningarmed",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leaningarmed.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
