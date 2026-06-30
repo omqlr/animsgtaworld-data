@@ -11005,6 +11005,19 @@
       "preview": "previews/leancar2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leancar1",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leancar1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
