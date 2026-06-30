@@ -9442,6 +9442,22 @@
       "preview": "previews/dontshoot4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim onground",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Suelo",
+        "Cama",
+        "Agachado"
+      ],
+      "preview": "previews/onground.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
