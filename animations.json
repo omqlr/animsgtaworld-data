@@ -10758,6 +10758,19 @@
       "preview": "previews/legscrossedlean2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim handraillean",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/handraillean.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
