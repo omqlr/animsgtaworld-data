@@ -10836,6 +10836,19 @@
       "preview": "previews/counterleanbar5.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim counterleanbar6",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/counterleanbar6.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
