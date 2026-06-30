@@ -10927,6 +10927,19 @@
       "preview": "previews/leaning1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leaning2",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leaning2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
