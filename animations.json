@@ -9570,6 +9570,22 @@
       "preview": "previews/dead.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim dead2",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Suelo",
+        "Cama",
+        "Muerto"
+      ],
+      "preview": "previews/dead2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
