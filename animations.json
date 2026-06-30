@@ -9672,6 +9672,19 @@
       "preview": "previews/malenewgroundsit.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malenewgroundsit2",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground"
+      ],
+      "preview": "previews/malenewgroundsit2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
