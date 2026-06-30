@@ -10732,6 +10732,19 @@
       "preview": "previews/leancounteridle.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim legscrossedlean",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/legscrossedlean.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
