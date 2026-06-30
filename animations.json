@@ -10198,6 +10198,19 @@
       "preview": "previews/walk5.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim walk6",
+      "name": null,
+      "categories": [
+        "Walking"
+      ],
+      "tags": [
+        "Walking"
+      ],
+      "preview": "previews/walk6.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
