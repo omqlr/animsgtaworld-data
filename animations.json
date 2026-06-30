@@ -9118,6 +9118,21 @@
       "preview": "previews/cover.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim seizure",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Suelo",
+        "Cama"
+      ],
+      "preview": "previews/seizure.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
