@@ -9195,6 +9195,21 @@
       "preview": "previews/groundhurt3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim groundhurt4",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Herido",
+        "Movimiento"
+      ],
+      "preview": "previews/groundhurt4.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
