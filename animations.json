@@ -10667,6 +10667,19 @@
       "preview": "previews/sidelean4.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bartenderlean",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/bartenderlean.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
