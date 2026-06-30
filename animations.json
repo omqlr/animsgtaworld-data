@@ -9541,6 +9541,20 @@
       "preview": "previews/takingcover3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim hostage",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Rehen"
+      ],
+      "preview": "previews/hostage.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
