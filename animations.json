@@ -9011,6 +9011,23 @@
       "preview": "previews/fix1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim checkbody",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Trabajando",
+        "Working",
+        "Paramedic",
+        "Medic"
+      ],
+      "preview": "previews/checkbody.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
