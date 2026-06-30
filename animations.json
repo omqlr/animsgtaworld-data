@@ -11213,6 +11213,19 @@
       "preview": "previews/femalelean1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalelean3",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/femalelean3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
