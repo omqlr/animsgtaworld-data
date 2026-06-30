@@ -9103,6 +9103,21 @@
       "preview": "previews/getup.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim cover",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Asustado",
+        "Scared"
+      ],
+      "preview": "previews/cover.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
