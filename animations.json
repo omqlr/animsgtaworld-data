@@ -9984,6 +9984,21 @@
       "preview": "previews/femalefloorcrossing1.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim femalefloorcrossing2",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting",
+        "Pose"
+      ],
+      "preview": "previews/femalefloorcrossing2.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
