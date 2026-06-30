@@ -10745,6 +10745,19 @@
       "preview": "previews/legscrossedlean.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim legscrossedlean2",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/legscrossedlean2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
