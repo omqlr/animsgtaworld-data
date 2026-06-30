@@ -9311,6 +9311,21 @@
       "preview": "previews/bodyonground1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bodyonground2",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Suelo",
+        "Cama"
+      ],
+      "preview": "previews/bodyonground2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
