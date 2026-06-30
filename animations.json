@@ -9296,6 +9296,21 @@
       "preview": "previews/walkcrouched1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim bodyonground1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Suelo",
+        "Cama"
+      ],
+      "preview": "previews/bodyonground1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
