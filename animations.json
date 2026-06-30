@@ -9028,6 +9028,22 @@
       "preview": "previews/checkbody.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim checkbody1",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Trabajando",
+        "Working",
+        "Medic"
+      ],
+      "preview": "previews/checkbody1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
