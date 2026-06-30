@@ -9658,6 +9658,20 @@
       "preview": "previews/femalecrouch.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim malenewgroundsit",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Sitting"
+      ],
+      "preview": "previews/malenewgroundsit.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
