@@ -10888,6 +10888,19 @@
       "preview": "previews/leanferris2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leanferris3",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leanferris3.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
