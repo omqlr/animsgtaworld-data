@@ -10029,6 +10029,19 @@
       "preview": "previews/tracksuitsquat.png",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim copwalk1",
+      "name": null,
+      "categories": [
+        "Walking"
+      ],
+      "tags": [
+        "Walking"
+      ],
+      "preview": "previews/copwalk1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
