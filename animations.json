@@ -10680,6 +10680,19 @@
       "preview": "previews/bartenderlean.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leancounter",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leancounter.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
