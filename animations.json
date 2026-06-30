@@ -10966,6 +10966,19 @@
       "preview": "previews/leaningwall2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leaningtable1",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leaningtable1.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
