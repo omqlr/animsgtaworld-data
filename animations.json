@@ -9060,6 +9060,21 @@
       "preview": "previews/checbkdoy2.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim checkbody2",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Trabajando",
+        "Working"
+      ],
+      "preview": "previews/checkbody2.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
