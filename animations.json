@@ -10693,6 +10693,19 @@
       "preview": "previews/leancounter.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim leancounterwave",
+      "name": null,
+      "categories": [
+        "Leaning"
+      ],
+      "tags": [
+        "Leaning"
+      ],
+      "preview": "previews/leancounterwave.png",
+      "custom": false,
+      "author": null
     }
   ]
 }
