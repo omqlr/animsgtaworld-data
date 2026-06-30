@@ -9089,6 +9089,20 @@
       "preview": "previews/checkbody3.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim getup",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Levantarse"
+      ],
+      "preview": "previews/getup.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
