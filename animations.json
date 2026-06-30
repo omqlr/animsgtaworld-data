@@ -9374,6 +9374,23 @@
       "preview": "previews/handcuffshostage1.mp4",
       "custom": false,
       "author": null
+    },
+    {
+      "command": "/anim dontshoot",
+      "name": null,
+      "categories": [
+        "Ground"
+      ],
+      "tags": [
+        "Ground",
+        "Scared",
+        "Asustado",
+        "handsup",
+        "ManosArriba"
+      ],
+      "preview": "previews/dontshoot.mp4",
+      "custom": false,
+      "author": null
     }
   ]
 }
